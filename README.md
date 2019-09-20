@@ -8,7 +8,7 @@ The project consists on the training of several models using and RNN-LSTM archit
 set of features extracted from audio of spanish speakers from Spain and Argentina, to detect these two accents, 
 through the aforementioned methodology.
 
-Author: Andrea Fontalvo Echavez
-Tutor: PhD. Sergio Dominguez
+Author: Andrea Fontalvo Echavez.
+Tutor: PhD. Sergio Dominguez.
 
 ![alt text](https://github.com/andreacfontalvo/Spanish_Accent_Identification_TFM_UPM/blob/master/model_training/model_arch.jpg?raw=true)
