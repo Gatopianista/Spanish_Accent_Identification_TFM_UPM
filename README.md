@@ -10,5 +10,6 @@ through the aforementioned methodology.
 
 Author: Andrea Fontalvo Echavez.
 Tutor: PhD. Sergio Dominguez.
+Universidad Politécnica de Madrid
 
 ![alt text](https://github.com/andreacfontalvo/Spanish_Accent_Identification_TFM_UPM/blob/master/model_training/model_arch.jpg?raw=true)
