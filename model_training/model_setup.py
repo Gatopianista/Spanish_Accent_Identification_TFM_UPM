@@ -14,7 +14,7 @@ These functions are later used on models_training.py.
 
 import os
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
-
+    
 import tensorflow as tf
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense, Dropout, LSTM, BatchNormalization
